@@ -1,0 +1,5 @@
+/Users/mike/Documents/Chess/cmake-build-debug/CMakeFiles/Chess.dir
+/Users/mike/Documents/Chess/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mike/Documents/Chess/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mike/Documents/Chess/cmake-build-debug/CMakeFiles/Chess_autogen_timestamp_deps.dir
+/Users/mike/Documents/Chess/cmake-build-debug/CMakeFiles/Chess_autogen.dir
